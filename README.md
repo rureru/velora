@@ -3,6 +3,8 @@
 A quiet-luxury, editorial website template for boutique hotels, villas, mountain lodges, desert camps and independent retreats.
 Built with **Next.js 15 (App Router)**, **TypeScript** and **Tailwind CSS**. No database, no login, no payments — reservations go to your existing booking engine through external links.
 
+View Live: **https://velora-dem0.netlify.app/**
+
 ---
 
 ## Features
